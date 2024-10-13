@@ -1,13 +1,6 @@
 :root {
   --bg-color: #090909;
-  --purple-sneakers: #bf00b0;
-  --pink-sneakers: #ab0041;
-  --green-sneakers: #00a738;
-  --purple-text: #6a0d5e;
-  --pink-text: #cd0253;
-  --green-text: #005e2a;
-
-  --checked-color: var(--pink-text);
+  --checked-color: #cd0253;
 }
 
 @font-face {
